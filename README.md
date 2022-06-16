@@ -10,7 +10,6 @@ Activites
 <!--ts-->
    * [Led Sequence](#led-sequence)
    * [Led Button Sequence](#led-button-sequence)
- 
 <!--te-->
 ## Led Sequence
 **Challenge:**
@@ -18,7 +17,7 @@ Activites
 * All LEDs need to be on and then all turn off
 * Pressing the button for the second time, all LEDs will blink continuously
 * All LEDs turn on and turn off backwards
-* 
+
 ### Arduino structure
 ![image arduino](https://user-images.githubusercontent.com/51789882/174125086-ab50a5fd-6f6d-4adc-8840-08ad8304dadf.png)
 > ![View Code]([https://github.com/nailtonvital/arduino-classes/blob/main/if_led1.ino](https://github.com/nailtonvital/arduino-classes/blob/main/led_sequence1.ino))
