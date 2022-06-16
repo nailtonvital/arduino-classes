@@ -8,8 +8,8 @@ Arduino activities made at ETEC Albert Einstein
 Activites
 =================
 <!--ts-->
-   * [Led Sequence](#)
-   * [Led Button Sequence](#)
+   * [Led Sequence](##led-sequence)
+   * [Led Button Sequence](#led-button-sequence)
  
 <!--te-->
 ## Led Sequence
